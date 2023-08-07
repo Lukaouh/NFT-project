@@ -54,7 +54,6 @@
 img{
     background-color: rgba(203, 204, 232, 1);
     border-radius: 20px;
-    margin-left: 90px;
     margin-top: 30px;
 
 }
@@ -113,7 +112,7 @@ img{
     }
 }
 
-@media screen and (max-width:1199px){
+@media screen and (max-width:768px){
    
     .col-md-7{
         display: none;  
